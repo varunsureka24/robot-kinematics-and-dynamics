@@ -10,7 +10,7 @@ The project focuses on **robot kinematics, inverse kinematics (IK), trajectory g
 
 ## Key Features
 - **Pen Grasping & Handling** – The robot uses its gripper to pick up a pen from a holder and properly orient it for drawing.
-- **Forward & Inverse Kinematics** – Implemented DH parameters for accurate kinematic transformations and IK solvers for end-effector control.
+- **Forward Kinematics** – Implemented DH parameters for accurate kinematic transformations.
 - **Gradient Descent for Inverse Kinematics** – Used iterative optimization techniques to solve inverse kinematics efficiently, ensuring fast convergence and smooth and accurate end-effector positioning.
 - **Trajectory Planning** – Used **joint-space and Cartesian-space interpolation** to generate smooth and precise drawing motions.
 - **Time-Parameterized Motion Planning** – Implemented smooth velocity profiles with **S-curve motion planning** to ensure gradual acceleration and deceleration, reducing torque spikes and improving trajectory stability.
