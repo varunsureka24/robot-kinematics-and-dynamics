@@ -1,7 +1,7 @@
 # RKD Capstone Project:
 
 ## Video Demonstration
-🔗 *([Video Demo](https://youtu.be/k4Xcv1jUgHI))*
+*[Video Demo](https://youtu.be/k4Xcv1jUgHI)*
 
 ## Overview
 This capstone project involves programming a **Franka Emika Panda** robot to autonomously **pick up a pen, move it to a whiteboard, draw lines and curves, and place the pen in a drop bin**. The robot must successfully complete this sequence three times while adapting to different pen locations, whiteboard positions, and orientations.
